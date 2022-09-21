@@ -1,0 +1,52 @@
+[
+  {
+    "Date": "2022-10-01T00:00:00",
+    "AvailableSpaces": 6,
+    "IsSpaceFull": false
+  },
+  {
+    "AvailableSpaces": 7,
+    "Date": "2022-10-02T00:00:00",
+    "IsSpaceFull": false
+  },
+  {
+    "AvailableSpaces": 8,
+    "Date": "2022-10-03T00:00:00",
+    "IsSpaceFull": false
+  },
+  {
+    "AvailableSpaces": 10,
+    "Date": "2022-10-04T00:00:00",
+    "IsSpaceFull": false
+  },
+  {
+    "AvailableSpaces": 4,
+    "Date": "2022-10-05T00:00:00",
+    "IsSpaceFull": false
+  },
+  {
+    "AvailableSpaces": 10,
+    "Date": "2022-10-06T00:00:00",
+    "IsSpaceFull": false
+  },
+  {
+    "AvailableSpaces": 10,
+    "Date": "2022-10-08T00:00:00",
+    "IsSpaceFull": false
+  },
+  {
+    "AvailableSpaces": 10,
+    "Date": "2022-10-09T00:00:00",
+    "IsSpaceFull": false
+  },
+  {
+    "AvailableSpaces": 0,
+    "Date": "2022-10-10T00:00:00",
+    "IsSpaceFull": true
+  }
+
+
+]
+  
+
+
